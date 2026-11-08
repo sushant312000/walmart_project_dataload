@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-de-project-1 = "de_project_1:main"
+de-project-1 = "de_project_1.import_csvs:main"
 
 [build-system]
 requires = ["uv_build>=0.13.5,<0.14.0"]
