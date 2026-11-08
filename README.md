@@ -39,7 +39,7 @@ customers, stores, products, employees, orders, and order items.
 - Python 3.13
 - [uv](https://docs.astral.sh/uv/)
 - A reachable PostgreSQL database and a role with permission to read the
-  target tables and insert rows
+  target tables and insert rows (NEON DB)
 
 ## Set up
 
